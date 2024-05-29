@@ -1,0 +1,17 @@
+{
+    "name": "puti/libhallo",
+    "description": "pembuatan library sederhana",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puti Hanifah Marsla",
+            "email": "putihanifah16@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"puti\\libhallo\\" : "src/"}
+    },
+    "require": {}
+}
